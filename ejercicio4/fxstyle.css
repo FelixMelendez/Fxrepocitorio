@@ -1,0 +1,18 @@
+body{
+	background-color: #BDBDBD;
+}
+
+p{
+	font-style:italic; 
+	text-align:left; 
+
+}
+
+p.s2 {
+	text-align:right; 
+}
+
+hr{
+	width:900px; 
+	
+}
